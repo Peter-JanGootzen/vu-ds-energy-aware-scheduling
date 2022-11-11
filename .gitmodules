@@ -1,0 +1,3 @@
+[submodule "opendc"]
+	path = opendc
+	url = git@github.com:Peter-JanGootzen/opendc.git
