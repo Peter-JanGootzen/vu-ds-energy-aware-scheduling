@@ -1,3 +1,6 @@
 [submodule "opendc"]
 	path = opendc
 	url = git@github.com:Peter-JanGootzen/opendc.git
+[submodule "wta-sim"]
+	path = wta-sim
+	url = git@github.com:Peter-JanGootzen/wta-sim.git
