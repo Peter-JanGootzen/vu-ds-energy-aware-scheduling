@@ -1,0 +1,6 @@
+This experiment has as goal to DESCRIPTION
+The system has topology PATH, which is DESCRIPTION
+The system is HETEROGENEOUS/HOMOGENEOUS
+The system has heterogeneity UNIFORM/VARIED
+The system makes use of DVFS/NO DVFS
+The system makes use of allocation policy POLICY
